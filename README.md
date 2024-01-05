@@ -17,17 +17,17 @@ SecureArcade is a 🌐 [brief description of what the company does and its core 
 
 ## Key Team Members 👥
 
-### Matan Blayvas - Chief Technology Officer (CTO) 💻
+### Chief Technology Officer (CTO) 💻
 
-Matan is our CTO, leading the Technology Division. With a passion for technology and innovation, Matan oversees the development and implementation of cutting-edge solutions. His responsibilities include [provide a brief overview of Matan's role and responsibilities].
+Our CTO leads the Technology Division. With a passion for technology and innovation, the CTO oversees the development and implementation of cutting-edge solutions. Responsibilities include [provide a brief overview of the CTO's role and responsibilities].
 
-### Gabriel [Last Name] - Chief Marketing Officer (CMO) 🎯
+### Chief Marketing Officer (CMO) 🎯
 
-Gabriel serves as our CMO, spearheading our marketing initiatives. With a keen understanding of market trends, Gabriel is responsible for [briefly outline Gabriel's role and responsibilities].
+Our CMO spearheads marketing initiatives. With a keen understanding of market trends, the CMO is responsible for [briefly outline the CMO's role and responsibilities].
 
 ## Technology Division 💾
 
-Our Technology Division, led by CTO Matan Blayvas, focuses on delivering high-quality solutions in areas such as:
+Our Technology Division focuses on delivering high-quality solutions in areas such as:
 
 - Software Development
 - IT Infrastructure
@@ -36,7 +36,7 @@ Our Technology Division, led by CTO Matan Blayvas, focuses on delivering high-qu
 
 ## Marketing Division 📈
 
-The Marketing Division, under the leadership of CMO Gabriel [Last Name], is dedicated to:
+The Marketing Division is dedicated to:
 
 - Brand Management
 - Digital Marketing
